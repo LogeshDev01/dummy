@@ -1,3 +1,5 @@
 class MainClass{
-    // something
+    int add (int a , int b){
+        return a+b ;
+    }
 }
